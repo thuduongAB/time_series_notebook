@@ -1,0 +1,26 @@
+name: countcolor
+channels:
+  - conda-forge
+
+dependencies:
+  - conda-build
+  - ipykernel
+  - jupyterlab
+  - pip
+  - numpy
+  - pandas
+  
+  - requests
+  - lxml
+  - beautifulsoup4
+  - matplotlib
+  - seaborn
+
+  - opencv-python
+  - scikit-build
+  - urllib3
+
+
+
+
+
